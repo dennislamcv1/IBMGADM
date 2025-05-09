@@ -1,5 +1,5 @@
 # IBMGADM
-## Generative AI for Digital Marketing Specialization
+## IBM Generative AI for Digital Marketing Specialization
 
 Statista estimates that the generative AI (gen AI) market in marketing is projected to reach $22 billion in the next few years. Digital marketing professionals with the skills to use gen AI are in high demand! This specialization equips marketing professionals, managers, freelance writers, bloggers, and startup/small business owners with the skills to harness gen AI effectively—in just a few weeks! 
 
